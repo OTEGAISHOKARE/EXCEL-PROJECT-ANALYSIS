@@ -14,3 +14,20 @@ The primary Data source of the Data used here is Amazon Case study.xls and this 
 ### Tools used
 - Ms Exccel for Data cleaning [Download Here](https://www.microsoft.com)
 - Pivot table for data visualization
+
+### Data Cleaning and Preparation
+In the initial phase of the Data cleaning and preparations, I performed the following actions;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involves the exploring of the Data to answer some questions about the Data such as ;
+- What is the Average discount percentage
+- Which product have the highest average ratings
+- Total number of reviews per category
+- Total potential revenue
+- Top 5 products in terms of rating
+
+### DATA ANALYSIS
+
