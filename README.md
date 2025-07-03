@@ -34,3 +34,8 @@ To get the total Average discount of all products, I used the
 - Pivot Table:
 - Rows: Category
 - Values: Discount % → summarize by Average
+- https://raw.githubusercontent.com/OTEGAISHOKARE/EXCEL-PROJECT-ANALYSIS/refs/heads/main/IMG_20250703_144006.jpg
+
+ To get the Product with Highest average ratings, I used the
+ - Pivot table
+ - Column: Average rating (in descending order)
