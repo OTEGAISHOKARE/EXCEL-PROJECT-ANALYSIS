@@ -30,4 +30,7 @@ EDA involves the exploring of the Data to answer some questions about the Data s
 - Top 5 products in terms of rating
 
 ### DATA ANALYSIS
-
+To get the total Average discount of all products, I used the
+- Pivot Table:
+- Rows: Category
+- Values: Discount % → summarize by Average
