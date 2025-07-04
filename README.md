@@ -30,6 +30,8 @@ EDA involves the exploring of the Data to answer some questions about the Data s
 - Top 5 products in terms of rating
 
 ### DATA ANALYSIS
+[Amazon case study tega project.xlsx](https://github.com/user-attachments/files/21057672/Amazon.case.study.tega.project.xlsx)
+
 To get the total Average discount of all products, I used the
 - Pivot Table:
 - Rows: Category
