@@ -100,3 +100,16 @@ Which categories have products with the highest discounts
 - Values: Discount % → Max
 
 Top 5 products by rating + number of reviews combined
+
+### Conclusion 
+- The total Average discount of all products is 48%
+
+- The sum of Rating count in total is 26,766,379.
+
+- The Highest Average rating is 4.6 ⭐
+
+- The product with the Highest Average rating is the TABLET with 4.6 ratings
+
+- Product Category with the highest review is the ACCESSORIES and PERIPHERALS with a total of 5,079,479 ratings in total
+
+### Recommendation 
