@@ -112,4 +112,16 @@ Top 5 products by rating + number of reviews combined
 
 - Product Category with the highest review is the ACCESSORIES and PERIPHERALS with a total of 5,079,479 ratings in total
 
-### Recommendation 
+### VISUAL PREVIEW 
+![IMG_20250703_142831](https://github.com/user-attachments/assets/131a601e-6a86-4c4f-807e-d776b32a4711)
+
+![IMG_20250703_142919](https://github.com/user-attachments/assets/dc5c4311-7c37-43e1-97b3-e5e73f9cec02)
+
+![IMG_20250703_143030](https://github.com/user-attachments/assets/9c698e7d-cc9a-40a3-a48d-d1c32fcaeac9)
+
+![IMG_20250703_144006](https://github.com/user-attachments/assets/4dbb1415-8dca-4192-8713-681d539978a1)
+
+### REFERENCE
+- Excel workbook
+- Amazon case study
+- DSA Facilitators
