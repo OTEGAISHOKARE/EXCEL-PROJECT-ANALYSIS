@@ -124,6 +124,8 @@ Top 5 products by rating + number of reviews combined
 
 ![IMG_20250703_144006](https://github.com/user-attachments/assets/4dbb1415-8dca-4192-8713-681d539978a1)
 
+![IMG_20250711_152249](https://github.com/user-attachments/assets/4911b4d8-5fee-43c4-883d-6673b5c5b80f)
+
 ### REFERENCE
 - Excel workbook
 - Amazon case study
